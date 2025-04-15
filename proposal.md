@@ -1,7 +1,7 @@
-# Title
+# Hungry Bunny
 
 ## Repository
-<https://github.com/Ch0ppedapples/2305Final_bunnyGame
+<https://github.com/Ch0ppedapples/2305Final_HungryBunny
 >
 
 ## Description
